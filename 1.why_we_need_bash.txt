@@ -1,0 +1,19 @@
+BASH - Bourne Again SHell
+It is a shell scripting language.
+
+"What's a shell?" you ask? 
+A shell is a computer program that allows you to directly control a 
+computer's operating system (OS) with a graphical user interface (GUI) or 
+command-line interface (CLI).
+
+Bash can be used to automate software development tasks such as code compilation, 
+debugging source code, change management and software testing. 
+Network engineers use Bash to test, configure and optimize network performance 
+on organizational networks.
+
+To run the bash code
+Go to the directory where code file is present
+Change permissions of file using
+>> chmod +x ./file.shell
+Then run the file
+>> ./file.sh
